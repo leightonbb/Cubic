@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDecoder.Tests", "StringDecoder.Tests\StringDecoder.Tests.csproj", "{E23EF2C2-3B53-40BD-B7F2-BF76FF66CB19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDecoder", "StringDecoder\StringDecoder.csproj", "{1B760EA2-B535-4DD9-AB2F-B1C29BBCD829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E23EF2C2-3B53-40BD-B7F2-BF76FF66CB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23EF2C2-3B53-40BD-B7F2-BF76FF66CB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23EF2C2-3B53-40BD-B7F2-BF76FF66CB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23EF2C2-3B53-40BD-B7F2-BF76FF66CB19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B760EA2-B535-4DD9-AB2F-B1C29BBCD829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B760EA2-B535-4DD9-AB2F-B1C29BBCD829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B760EA2-B535-4DD9-AB2F-B1C29BBCD829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B760EA2-B535-4DD9-AB2F-B1C29BBCD829}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
